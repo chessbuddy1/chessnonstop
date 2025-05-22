@@ -5,7 +5,7 @@ This repository contains an SEO-optimized HTML page focused on introducing begin
 ## 🔗 Live Page
 If hosted on GitHub Pages, you can access the live version of this resource here:
 ```
-https://<your-github-username>.github.io/<your-repo-name>/
+https://github.com/chessbuddy1/chessnonstop
 ```
 
 ## 📘 What This Page Includes
