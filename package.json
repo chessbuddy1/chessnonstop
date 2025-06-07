@@ -17,10 +17,7 @@
     "url": "https://github.com/chessbuddy1/chessnonstop/issues"
   },
   "homepage": "https://github.com/chessbuddy1/chessnonstop#readme",
-  "dependencies": {
-    "stockfish": "^16.0.0"
-  },
-  	"devDependencies": {
+  "devDependencies": {
 		"stockfish": "^16.0.0"
 	}
 }
