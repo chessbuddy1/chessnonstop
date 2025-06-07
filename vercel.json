@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "api/stockfish.js": {
+      "includeFiles": "node_modules/stockfish/src/stockfish.wasm",
+      "maxDuration": 30
+    }
+  }
+}
