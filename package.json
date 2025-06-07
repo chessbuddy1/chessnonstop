@@ -1,23 +1,15 @@
 {
-  "name": "chessnonstop",
+  "name": "vercel-stockfish-api",
   "version": "1.0.0",
-  "description": "This repository contains an SEO-optimized HTML page focused on introducing beginner chess players to essential chess tactics. It’s intended as part of a content marketing strategy for [ChessNonStop.com](https://chessnonstop.com).",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/chessbuddy1/chessnonstop.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/chessbuddy1/chessnonstop/issues"
-  },
-  "homepage": "https://github.com/chessbuddy1/chessnonstop#readme",
   "devDependencies": {
-		"stockfish": "^16.0.0"
-	}
+    "stockfish": "^16.0.0"
+  }
 }
