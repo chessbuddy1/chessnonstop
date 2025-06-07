@@ -19,5 +19,8 @@
   "homepage": "https://github.com/chessbuddy1/chessnonstop#readme",
   "dependencies": {
     "stockfish": "^16.0.0"
-  }
+  },
+  	"devDependencies": {
+		"stockfish": "^16.0.0"
+	}
 }
